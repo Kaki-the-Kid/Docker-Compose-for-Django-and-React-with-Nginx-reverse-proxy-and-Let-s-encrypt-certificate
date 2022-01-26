@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=rHux0gMZ3Eg
 
 # Documentation
 ## Docker - Docker-Compose
+[TODO - Rewrite(notcopypaste)]In this Dockerfile the python:3.8.3-alpine is used as base image. Let’s decode this image name and tag. It contains python in version 3.8.3, running in the Linux distribution Alpine which is lightweight. The purpose of using lightweight Linux is to have small image which will result in faster builds. You can of course use different base image. For purpose of this tutorial the python:3.8.3-alpine is sufficient.
 ## Django
 ## React
 ## Nginx reverse proxy
