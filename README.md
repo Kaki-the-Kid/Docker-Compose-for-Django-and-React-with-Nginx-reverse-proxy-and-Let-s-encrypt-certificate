@@ -4,6 +4,11 @@
 https://saasitive.com/tutorial/docker-compose-django-react-nginx-let-s-encrypt/
 * CodingEntrepreneurs - Django + Chart.js // Learn to intergrate Chart.js with Django
 https://www.youtube.com/watch?v=B4Vmm3yZPgc
+* freeCodeCamp.org - Python Django Web Framework - Full Course for Beginners
+https://www.youtube.com/watch?v=F5mRW0jo-U4
+* Programming with Mosh - Python Django Tutorial for Beginners
+https://www.youtube.com/watch?v=rHux0gMZ3Eg
+
 
 # Documentation
 ## Docker - Docker-Compose
